@@ -17,7 +17,7 @@ public class New {
         int year2 = person2.calculateYearsToRetirement();
         System.out.println("Первому человеку до пенсии "+year1+" лет.");
         System.out.println("Второму челеловеку до пенсии "+year2+" лет.");
-        System.out.println("тестирую git");
+        System.out.println("тестирую git 222");
     }
 
 }
